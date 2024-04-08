@@ -1,1 +1,1 @@
-"# GRB-group-5" 
+GRB telescope mission codebase
